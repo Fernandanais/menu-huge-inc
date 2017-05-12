@@ -76,7 +76,7 @@ nav{
 */
 
 #toggle:hover .menu:before{
-	top: -9px;
+	top: 9px;
 }
 
 #toggle:hover .menu:after{
